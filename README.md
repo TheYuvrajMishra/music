@@ -1,4 +1,4 @@
-# 🎶 VisionTune: Make Music with Your Movements! 🚀
+# 🎶 Music: Make Music with Your Movements! 🚀
 
 Welcome to **VisionTune** — a futuristic experiment where your camera becomes your instrument and your motions become music!  
 Harness the power of computer vision to **create beats, melodies, and rhythms** just by moving your hands, head, or body.
@@ -30,7 +30,7 @@ Harness the power of computer vision to **create beats, melodies, and rhythms** 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/visiontune.git
-cd visiontune
+git clone https://github.com/TheYuvrajMishra/music.git
+cd music
 pip install -r requirements.txt
-python visiontune.py
+python music.py
